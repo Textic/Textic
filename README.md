@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 </td></tr></table>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=textic&&style=flat-square)
