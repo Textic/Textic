@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="border: none;"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=textic&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
