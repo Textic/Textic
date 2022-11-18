@@ -15,5 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=textic&layout=compact&theme=tokyonight)](https://github.com/Textic)
+- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=textic&layout=compact&theme=tokyonight)](https://github.com/Textic)
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=textic&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
