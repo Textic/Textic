@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=textic&hide_border=true&layout=compact&theme=dark" align="right" style="width: 100%" /></div>
 
-</td></tr></table>  
+</td></tr></table>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
