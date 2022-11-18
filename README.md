@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 -->
 
 ## Github Stats  
-<table cellspacing="0" cellpadding="0"><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=textic&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=textic&hide_border=true&layout=compact&theme=dark" align="right" style="width: 100%" /></div>
 
 </td></tr></table>  
