@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=textic&layout=compact&theme=tokyonight)](https://github.com/Textic)
 -->
 <h3 align="left">Skills</h3>
+<table>
 <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -66,7 +67,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
-
+</table>
 <h3 align="left">Want to learn or am learning</h3>
 
 
