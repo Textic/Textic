@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=textic&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%; margin-top: 23px" />
+<img src="https://github-readme-stats.vercel.app/api?username=textic&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 </td></tr></table>
 
 <div align="center">
-    <a href="https://paypal.me/textic" target="_blank" style="display: inline-block;">
+    <!-- <a href="https://paypal.me/textic" target="_blank" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
-    </a>
+    </a> -->
     <!-- <a href="https://www.buymeacoffee.com/textic" target="_blank" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/>
     </a> -->
